@@ -1,5 +1,7 @@
- Use AdventureWorks2022
-
+-- SQL CODE TO EXTRACT THE RELEVANT DATASET WITH RESPECTIVE COLUMN FIELDS
+ 
+Use AdventureWorks2022
+ 
  select 
  e.BusinessEntityID,
  p.FirstName,
